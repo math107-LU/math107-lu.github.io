@@ -20,9 +20,9 @@ title: Math 107 Resources
 * [Tutorial: Install, R & RStudio (Windows)](http://www.reed.edu/data-at-reed/software/R/r_studio_pc.html)
 
 #### The basics
-* Rstudio interface
-* Installing and loading packages
-* Setting the working directory
+* [Rstudio interface](https://youtu.be/5p04znmmgQ8)
+* [Installing and loading packages](https://youtu.be/CtOSryChcGg)
+* [Setting the working directory](https://youtu.be/LNw6hzGgyxM)
 
 #### Loading data
 * Reading .csv files

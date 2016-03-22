@@ -9,7 +9,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZFXBlGOF
 
 ---
 
-####Week 1 (Mon Mar 28 - Fri Apr 1)
+#### Week 1 (Mon Mar 28 - Fri Apr 1)
 
 - Class 1: **Course Overview**
     - Slides: 
