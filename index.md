@@ -14,4 +14,9 @@ The world is experiencing a flood of data. Everywhere we look—from our cell ph
 
 #### Professor
 
-* Adam Loy, Office hours: TBD in Briggs 410
+* Adam Loy, 410 Briggs Hall, x6894, adam.m.loy@lawrence.edu
+* Office hours:
+  - Mondays and Fridays 11:10am–12:20pm
+  - Mondays and Tuesdays 3:00–4:00pm
+  - Wednesdays 3:00–4:30pm
+  - and by appointment
