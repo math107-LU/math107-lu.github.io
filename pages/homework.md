@@ -10,3 +10,5 @@ Homework assignments are due on Tuesdays and Fridays. See the [schedule](schedul
 * Complete the statistics readiness quiz on [Moodle](https://moodle.lawrence.edu/).
 
 #### HW1
+
+* [HW1 Assignment]({{ BASE_PATH }}/assets/hw/hw1.pdf)
