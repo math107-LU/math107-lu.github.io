@@ -10,9 +10,8 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 #### Week 1 (Mon Mar 28 - Fri Apr 1)
 
 - Class 1: Course Overview
-    - Slides: 
-    - Reading: 1.1
-    - Video: 
+    - [Slides]({{ BASE_PATH }}/assets/slides/01-intro.pdf)
+    - Reading: 1.1, Tidy data (on Moodle)
 
 - Class 2: Tidy Data
 	- Slides:
