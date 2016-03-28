@@ -14,7 +14,7 @@ title: Math 107 Resources
 * [CRAN](https://cran.r-project.org/)
 * [RStudio Download](https://www.rstudio.com/products/rstudio/download/)
 * [Video: Install R (Windows)](https://youtu.be/Ohnk9hcxf9M)
-* [Video: Install R (Mac)](https://youtu.be/Ohnk9hcxf9M)
+* [Video: Install R (Mac)](https://youtu.be/uxuuWXU-7UQ)
 * [Video: Install RStudio (Mac)](https://youtu.be/bM7Sfz-LADM) (Windows users can also use this video as a reference.)
 * [Tutorial: Install, R & RStudio (Mac)](http://www.reed.edu/data-at-reed/software/R/r_studio.html)
 * [Tutorial: Install, R & RStudio (Windows)](http://www.reed.edu/data-at-reed/software/R/r_studio_pc.html)
