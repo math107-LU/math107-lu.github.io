@@ -11,8 +11,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 
 - Class 1: Course Overview
     - [Slides]({{ BASE_PATH }}/assets/slides/01-intro.pdf)
-    - Reading: 1.1, Tidy data (on Moodle)
 
 - Class 2: Tidy Data
-	- Slides:
-	- Reading: 
+	- [Slides]({{ BASE_PATH }}/assets/slides/02-data.pdf)
+	- Reading: 1.1, Tidy data (on Moodle)
