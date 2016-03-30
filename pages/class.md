@@ -15,3 +15,8 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 - Class 2: Tidy Data
 	- [Slides]({{ BASE_PATH }}/assets/slides/02-data.pdf)
 	- Reading: 1.1, Tidy data (on Moodle)
+	- Data sets: [NYTimes Delegate Tracker](http://www.nytimes.com/interactive/2016/us/elections/primary-calendar-and-results.html), [FiveThirtyEight Delegate Tracker](http://projects.fivethirtyeight.com/election-2016/delegate-targets/), [Median WI Salaries by Sex and Experience](https://github.com/math107-LU/materials2016/blob/master/data/B20017_5_32.xls?raw=true)
+	
+- Class 3: EDA
+  - Reading: 2.1, 2.2
+  - Videos: [Rstudio interface](https://youtu.be/5p04znmmgQ8), [Installing and loading packages](https://youtu.be/CtOSryChcGg)
