@@ -21,3 +21,13 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/03-EDA1-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/03-EDA1-handout.pdf)
   - Reading: 2.1, 2.2
   - Videos: [Rstudio interface](https://youtu.be/5p04znmmgQ8), [Installing and loading packages](https://youtu.be/CtOSryChcGg)
+
+
+#### Week 2 (Mon Apr 4 - Fri Apr 8)
+
+- Class 4: EDA
+	- Reading: 2.3, 2.4
+
+- Class 5: EDA
+
+- Class 6: TBA
