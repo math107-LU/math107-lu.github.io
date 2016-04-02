@@ -39,11 +39,11 @@ title: Math 107 Resources
 * Scatterplots
 
 #### Data summarization
+* Frequency tables
 * Contingency tables
 * Descriptive statistics
 
 #### Markdown
-* 
 
 
 

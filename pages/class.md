@@ -21,7 +21,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/03-EDA1-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/03-EDA1-handout.pdf)
   - Data: [HollywoodMovies2011.csv]({{ BASE_PATH }}/assets/data/HollywoodMovies2011.csv)
   - Reading: 2.1, 2.2
-  - Videos: [Rstudio interface](https://youtu.be/5p04znmmgQ8), [Installing and loading packages](https://youtu.be/CtOSryChcGg)
+  - Videos: [Rstudio interface](https://youtu.be/5p04znmmgQ8), [Installing and loading packages](https://youtu.be/CtOSryChcGg), [Reading .csv files](https://youtu.be/ouGBcX41J2c), [Reading Excel files](https://youtu.be/SGnM3jUUkZI), [Bar charts](https://youtu.be/030gs_nF5ss)
 
 
 #### Week 2 (Mon Apr 4 - Fri Apr 8)
@@ -29,7 +29,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 - Class 4: EDA
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/03-EDA2-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/03-EDA2-handout.pdf)
   - Data: [HollywoodMovies2011.csv]({{ BASE_PATH }}/assets/data/HollywoodMovies2011.csv)
-	- Reading: 2.3, 2.4
+  - Reading: 2.3, 2.4
 
 - Class 5: EDA
 
