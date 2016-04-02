@@ -8,7 +8,8 @@ title: Math 107 Resources
 
 #### LU's RStudio server
 * [rstudio.lawrence.edu](https://rstudio.lawrence.edu/auth-sign-in) (Note: You must be on campus to access the RStudio server.)
-* Importing/exporting files from the server
+* [Import file onto server](https://youtu.be/aTv2gHYhreM)
+* [Download file from the server](https://youtu.be/GNifRbzbYDc)
 
 #### Installation
 * [CRAN](https://cran.r-project.org/)
@@ -25,12 +26,12 @@ title: Math 107 Resources
 * [Setting the working directory](https://youtu.be/LNw6hzGgyxM)
 
 #### Loading data
-* Reading .csv files
-* Reading Excel files
+* [Reading .csv files](https://youtu.be/ouGBcX41J2c)
+* [Reading Excel files](https://youtu.be/SGnM3jUUkZI)
 * Basic web scrapping
 
 #### Data visualization
-* Bar charts
+* [Bar charts](https://youtu.be/030gs_nF5ss)
 * Histograms
 * Boxplots
 * Side-by-side boxplots
