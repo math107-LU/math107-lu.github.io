@@ -27,7 +27,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 #### Week 2 (Mon Apr 4 - Fri Apr 8)
 
 - Class 4: EDA
-  - Slides: Slide format, Handout format
+  - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/03-EDA2-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/03-EDA2-handout.pdf)
   - Data: [HollywoodMovies2011.csv]({{ BASE_PATH }}/assets/data/HollywoodMovies2011.csv)
 	- Reading: 2.3, 2.4
 
