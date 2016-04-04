@@ -20,3 +20,7 @@ The world is experiencing a flood of data. Everywhere we look—from our cell ph
   - Mondays and Tuesdays 3:00–4:00pm
   - Wednesdays 3:00–4:30pm
   - and by appointment
+
+#### R help sessions
+
+* R help sessions will be held on Monday and Thursday evenings from 8-9:30pm in Briggs 421.
