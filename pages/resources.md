@@ -26,6 +26,7 @@ title: Math 107 Resources
 * [Setting the working directory](https://youtu.be/LNw6hzGgyxM)
 
 #### Loading data
+* [Importing a dataset into RStudio](https://youtu.be/hv2eU2mQ1-g)
 * [Reading .csv files](https://youtu.be/ouGBcX41J2c)
 * [Reading Excel files](https://youtu.be/SGnM3jUUkZI)
 * Basic web scrapping
