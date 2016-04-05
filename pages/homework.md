@@ -20,4 +20,4 @@ Homework assignments are due on Tuesdays and Fridays. See the [schedule](schedul
 
 #### HW2
 * [HW3 Assignment]({{ BASE_PATH }}/assets/hw/hw3.pdf)
-* [cdc.csv]({{ BASE_PATH }}/assets/hw/cdc.csv)
+* [hpi-tidy.csv]({{ BASE_PATH }}/assets/data/hpi-tidy.csv)
