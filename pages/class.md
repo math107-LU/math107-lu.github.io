@@ -32,6 +32,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Reading: 2.3, 2.4
 
 - Class 5: **EDA**
+  - - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/03-EDA3-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/03-EDA3-handout.pdf)
   - Reading: 2.5
 
 - Class 6: TBA
