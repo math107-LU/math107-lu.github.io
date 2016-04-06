@@ -33,16 +33,18 @@ title: Math 107 Resources
 
 #### Data visualization
 * [Bar charts](https://youtu.be/030gs_nF5ss)
-* Histograms
-* Boxplots
+* [Histograms](https://youtu.be/DU0jAPvm-O4)
+* [Single boxplots](https://youtu.be/7d3jLcEeN2Y)
+* [Density plots](https://youtu.be/ecdJZeADfm4)
 * Side-by-side boxplots
 * Facetting
 * Scatterplots
 
 #### Data summarization
-* Frequency tables
+* [Frequency and relative frequency tables](https://youtu.be/rFGM58iu7tg)
 * Contingency tables
-* Descriptive statistics
+* [Basic summary statistics](https://youtu.be/80481JFNkqg)
+* Basic summary statistics by group
 
 #### Markdown
 
