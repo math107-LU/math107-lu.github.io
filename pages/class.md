@@ -38,3 +38,19 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/03-EDA3-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/03-EDA3-handout.pdf)
   - Data: [dream.csv]({{ BASE_PATH }}/assets/data/dream.csv), [bac.txt]({{ BASE_PATH }}/assets/data/dream.csv)
   - Reading: 2.5
+
+
+#### Week 3 (Mon Apr 11 - Fri Apr 15)
+
+- Class 7: **EDA**
+  - Slides: continuing from class 6
+  - Reading: 2.5
+  
+- Class 8: **Sampling from a population**
+  - Reading: 1.2
+
+- Class 9:
+
+#### Week 4 (Mon Apr 18 - Fri Apr 22)
+
+- Class 10: **Exam 1**
