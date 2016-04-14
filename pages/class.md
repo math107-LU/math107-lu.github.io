@@ -55,4 +55,4 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 #### Week 4 (Mon Apr 18 - Fri Apr 22)
 
 - Class 10: **Exam 1**
-  - Review materials: [Review packet]({{ BASE_PATH }}/assets/data/dream.csv), [bac.txt]({{ BASE_PATH }}/assets/exams/ex1-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/data/dream.csv), [bac.txt]({{ BASE_PATH }}/assets/exams/practice-exam1.pdf)
+  - Review materials: [Review packet]({{ BASE_PATH }}/assets/exams/ex1-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-exam1.pdf)
