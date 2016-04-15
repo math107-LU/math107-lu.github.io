@@ -50,6 +50,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Reading: 1.2
 
 - Class 9: **Observational studies vs. experiments**
+  - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/05-experiments-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/05-experiments-handout.pdf)
   - Reading: 1.3
 
 #### Week 4 (Mon Apr 18 - Fri Apr 22)
