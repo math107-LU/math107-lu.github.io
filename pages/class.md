@@ -60,7 +60,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 
 - Class 11: **Intro to hypothesis testing**
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/06-intro-testing-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/06-intro-testing-handout.pdf)
-  - Data: [mosquitos.csv]({{ BASE_PATH }}/assets/data/osquitos.csv)
+  - Data: [mosquitos.csv]({{ BASE_PATH }}/assets/data/mosquitos.csv)
   - Reading: 4.1-4.4
 
 - Class 12: **Randomization (i.e. permutation) tests**
