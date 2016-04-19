@@ -57,3 +57,10 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 
 - Class 10: **Exam 1**
   - Review materials: [Review packet]({{ BASE_PATH }}/assets/exams/ex1-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-exam1.pdf)
+
+- Class 11: **Intro to hypothesis testing**
+  - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/06-intro-testing-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/06-intro-testing-handout.pdf)
+  - Data: [mosquitos.csv]({{ BASE_PATH }}/assets/data/osquitos.csv)
+  - Reading: 4.1-4.4
+
+- Class 12: **Randomization (i.e. permutation) tests**
