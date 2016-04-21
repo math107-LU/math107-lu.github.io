@@ -64,3 +64,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Reading: 4.1-4.4
 
 - Class 12: **Randomization (i.e. permutation) tests**
+  - Video lecture: [Part 1](https://video.lawrence.edu/Watch/Sa84Wcz6), [Part 2](https://video.lawrence.edu/Watch/Xk6x2EYb)
+  - Software demos: [Randomization test for a proportion in R](https://youtu.be/dixUdOBpMqc), [Randomization test for a difference of means in R](https://youtu.be/nq3zC4dt6gc)
+  - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/07-pvalues-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/07-pvalues-handout.pdf)
+  - Reading: 4.2, 4.4

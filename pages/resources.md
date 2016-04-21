@@ -46,7 +46,9 @@ title: Math 107 Resources
 * [Basic summary statistics](https://youtu.be/80481JFNkqg)
 * Basic summary statistics by group
 
-#### Markdown
+#### Randomization tests
+* Difference of means: [[Video]](https://youtu.be/nq3zC4dt6gc) [[Data]]({{ BASE_PATH }}/assets/data/mosquitos.csv)
+* [One proportion](https://youtu.be/dixUdOBpMqc)
 
 
 
