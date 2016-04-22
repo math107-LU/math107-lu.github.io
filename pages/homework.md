@@ -29,3 +29,7 @@ Homework assignments are due on Tuesdays and Fridays. See the [schedule](schedul
 #### HW5
 * [HW5 Assignment]({{ BASE_PATH }}/assets/hw/hw5.pdf)
 * [climate.csv]({{ BASE_PATH }}/assets/data/climate.csv)
+
+#### HW6
+* [HW6 Assignment]({{ BASE_PATH }}/assets/hw/hw6.pdf)
+* [Verizon.csv]({{ BASE_PATH }}/assets/data/Verizon.csv)
