@@ -68,3 +68,9 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Software demos: [Randomization test for a proportion in R](https://youtu.be/dixUdOBpMqc), [Randomization test for a difference of means in R](https://youtu.be/nq3zC4dt6gc)
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/07-pvalues-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/07-pvalues-handout.pdf)
   - Reading: 4.2, 4.4
+
+#### Week 4 (Mon Apr 25 - Fri Apr 29)
+
+- Class 13: **Randomization (i.e. permutation) tests**
+  - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/08-rand-dsns-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/08-rand-dsns-handout.pdf)
+  - Data: [CocaineTreatment.csv]({{ BASE_PATH }}/assets/data/CocaineTreatment.csv)
