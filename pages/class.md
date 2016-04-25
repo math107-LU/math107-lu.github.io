@@ -79,4 +79,5 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 - Class 14: **Randomization (i.e. permutation) tests**
   - Handouts: [Exploration 3]({{ BASE_PATH }}/assets/slides/03-permutation-tests.pdf)
   - Data: [CocaineTreatment.csv]({{ BASE_PATH }}/assets/data/CocaineTreatment.csv)
-  - Reading: 4.1, 4.2, 4.4
+  - Reading: 4.1, 4.2, 4.4'
+  - Software demo: [Randomization test for a difference of proportions in R](https://youtu.be/VxE-Biv1kB8)

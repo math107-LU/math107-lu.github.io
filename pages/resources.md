@@ -49,6 +49,8 @@ title: Math 107 Resources
 #### Randomization tests
 * Difference of means: [[Video]](https://youtu.be/nq3zC4dt6gc) [[Data]]({{ BASE_PATH }}/assets/data/mosquitos.csv)
 * [One proportion](https://youtu.be/dixUdOBpMqc)
+* Difference of proportions: [[Video]](https://youtu.be/VxE-Biv1kB8) [[Data]]({{ BASE_PATH }}/assets/data/CocaineTreatment.csv)
+
 
 
 
