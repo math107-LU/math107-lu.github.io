@@ -74,3 +74,9 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 - Class 13: **Randomization (i.e. permutation) tests**
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/08-rand-dsns-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/08-rand-dsns-handout.pdf)
   - Data: [CocaineTreatment.csv]({{ BASE_PATH }}/assets/data/CocaineTreatment.csv)
+  - Reading: 4.1, 4.2, 4.4
+
+- Class 14: **Randomization (i.e. permutation) tests**
+  - Handouts: [Exploration 3]({{ BASE_PATH }}/assets/slides/03-permutation-tests.pdf)
+  - Data: [CocaineTreatment.csv]({{ BASE_PATH }}/assets/data/CocaineTreatment.csv)
+  - Reading: 4.1, 4.2, 4.4
