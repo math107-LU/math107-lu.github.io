@@ -77,7 +77,16 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Reading: 4.1, 4.2, 4.4
 
 - Class 14: **Randomization (i.e. permutation) tests**
-  - Handouts: [Exploration 3]({{ BASE_PATH }}/assets/slides/03-permutation-tests.pdf)
+  - Handouts: [Exploration 3]({{ BASE_PATH }}/assets/slides/03-permutation-tests.pdf), [Slides (1 per page)]({{ BASE_PATH }}/assets/slides/09-significance-slides.pdf), [Slides (3 per page)]({{ BASE_PATH }}/assets/slides/09-significance-slides.pdf)
   - Data: [CocaineTreatment.csv]({{ BASE_PATH }}/assets/data/CocaineTreatment.csv)
   - Reading: 4.1, 4.2, 4.4'
   - Software demo: [Randomization test for a difference of proportions in R](https://youtu.be/VxE-Biv1kB8)
+
+- Class 15: **Statistical errors, Practical vs. statistical significance**
+
+
+#### Week 5 (Mon May 2 - Fri May 6)
+- Class 16: **Sampling distributions and confidence intervals**
+
+- Class 17: **Bootstrap confidence intervals**
+
