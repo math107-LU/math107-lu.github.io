@@ -90,5 +90,5 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Reading: 3.1, 3.2
 
 - Class 17: **Bootstrap confidence intervals**
-  Reading: 3.3
+  - Reading: 3.3
 
