@@ -87,6 +87,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 
 #### Week 5 (Mon May 2 - Fri May 6)
 - Class 16: **Sampling distributions and confidence intervals**
+  - Handouts: [Examples]({{ BASE_PATH }}/assets/slides/10-sampling-dsn-slides.pdf)
   - Reading: 3.1, 3.2
 
 - Class 17: **Bootstrap confidence intervals**
