@@ -91,5 +91,8 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Reading: 3.1, 3.2
 
 - Class 17: **Bootstrap confidence intervals**
+  - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/11-bootstrap-cis-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/11-bootstrap-cis-handout.pdf)
+  - Data: [ACS.csv]({{ BASE_PATH }}/assets/data/ACS.csv) 
+  - R code: [Bootstrap a mean]({{ BASE_PATH }}/assets/code/boot1mean.R), [Bootstrap a proportion]({{ BASE_PATH }}/assets/code/boot1prop.R)
   - Reading: 3.3
 
