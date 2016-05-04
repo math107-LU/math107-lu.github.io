@@ -69,7 +69,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/07-pvalues-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/07-pvalues-handout.pdf)
   - Reading: 4.2, 4.4
 
-#### Week 4 (Mon Apr 25 - Fri Apr 29)
+#### Week 5 (Mon Apr 25 - Fri Apr 29)
 
 - Class 13: **Randomization (i.e. permutation) tests**
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/08-rand-dsns-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/08-rand-dsns-handout.pdf)
@@ -85,7 +85,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 - Class 15: **Statistical errors, Practical vs. statistical significance**
 
 
-#### Week 5 (Mon May 2 - Fri May 6)
+#### Week 6 (Mon May 2 - Fri May 6)
 - Class 16: **Sampling distributions and confidence intervals**
   - Handouts: [Examples]({{ BASE_PATH }}/assets/slides/10-sampling-dsn-slides.pdf)
   - Reading: 3.1, 3.2
