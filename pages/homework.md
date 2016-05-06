@@ -41,3 +41,8 @@ Homework assignments are due on Tuesdays and Fridays. See the [schedule](schedul
 #### HW8
 * [HW8 Assignment]({{ BASE_PATH }}/assets/hw/hw8.pdf)
 * [mlb2016.csv]({{ BASE_PATH }}/assets/data/mlb2016.csv)
+
+#### HW9
+* [HW8 Assignment]({{ BASE_PATH }}/assets/hw/hw9.pdf)
+* [twitternews.csv]({{ BASE_PATH }}/assets/data/twitternews.csv)
+* [CommuteStLouis.csv]({{ BASE_PATH }}/assets/data/CommuteStLouis.csv)
