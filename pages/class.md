@@ -86,7 +86,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 
 
 #### Week 6 (Mon May 2 - Fri May 6)
-- Class 16: **Sampling distributions and confidence intervals**
+- Class 16: **Sampling distributions, Confidence intervals**
   - Handouts: [Examples]({{ BASE_PATH }}/assets/slides/10-sampling-dsn-slides.pdf)
   - Reading: 3.1, 3.2
 
@@ -96,3 +96,12 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - R code: [Bootstrap a mean]({{ BASE_PATH }}/assets/code/boot1mean.R), [Bootstrap a proportion]({{ BASE_PATH }}/assets/code/boot1prop.R)
   - Reading: 3.3
 
+#### Week 7 (Mon May 9 - Fri May 13)
+- Class 18: **Bootstrap confidence intervals, Review**
+  - Reading: 3.3
+
+- Class 19: **Exam 2**
+  - Review Materials: [Review packet]({{ BASE_PATH }}/assets/exams/ex2-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-exam2.pdf)
+
+- Class 19: **Connecting CIs and hypothesis tests, The Normal distribution**
+  - Reading: 3.3, 4.5
