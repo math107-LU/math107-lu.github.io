@@ -47,9 +47,9 @@ title: Math 107 Resources
 * Basic summary statistics by group
 
 #### Randomization tests
-* Difference of means: [[Video]](https://youtu.be/nq3zC4dt6gc) [[Data]]({{ BASE_PATH }}/assets/data/mosquitos.csv)
-* [One proportion](https://youtu.be/dixUdOBpMqc)
-* Difference of proportions: [[Video]](https://youtu.be/VxE-Biv1kB8) [[Data]]({{ BASE_PATH }}/assets/data/CocaineTreatment.csv)
+* Difference of means: [[Video]](https://youtu.be/nq3zC4dt6gc) [[Data]]({{ BASE_PATH }}/assets/data/mosquitos.csv) [[Code]](https://github.com/math107-LU/materials2016/blob/master/permTest-2means.R)
+* One proportion: [[Video]](https://youtu.be/dixUdOBpMqc) [[Code]](https://github.com/math107-LU/materials2016/blob/master/permTest-1prop.R)
+* Difference of proportions: [[Video]](https://youtu.be/VxE-Biv1kB8) [[Data]]({{ BASE_PATH }}/assets/data/CocaineTreatment.csv) [[Code]](https://github.com/math107-LU/materials2016/blob/master/permTest-2prop.R)
 
 #### Bootstrap confidence intervals
 * One mean: [[Video]](https://youtu.be/TuWLvbBa0WA) [[Data]]({{ BASE_PATH }}/assets/data/ACS.csv) [[Code]](https://github.com/math107-LU/materials2016/blob/master/boot1mean.R)
