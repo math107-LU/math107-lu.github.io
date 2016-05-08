@@ -51,6 +51,10 @@ title: Math 107 Resources
 * [One proportion](https://youtu.be/dixUdOBpMqc)
 * Difference of proportions: [[Video]](https://youtu.be/VxE-Biv1kB8) [[Data]]({{ BASE_PATH }}/assets/data/CocaineTreatment.csv)
 
+#### Bootstrap confidence intervals
+* One mean: [[Video]](https://youtu.be/TuWLvbBa0WA) [[Data]]({{ BASE_PATH }}/assets/data/ACS.csv) [[Code]](https://github.com/math107-LU/materials2016/blob/master/boot1mean.R)
+* One proportion: [[Video]](https://youtu.be/t2LSL2DlRlI) [[Data]]({{ BASE_PATH }}/assets/data/ACS.csv) [[Code]](https://github.com/math107-LU/materials2016/blob/master/boot1prop.R)
+
 
 
 
