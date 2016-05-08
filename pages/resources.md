@@ -6,6 +6,10 @@ title: Math 107 Resources
 
 ### R/RStudio
 
+#### R reference cards for intro stats
+* [EDA]({{ BASE_PATH }}/assets/r/m107-EDA-refcard.pdf)
+* [Simulation-based inference]({{ BASE_PATH }}/assets/r/m107-simInf-refcard.pdf)
+
 #### LU's RStudio server
 * [rstudio.lawrence.edu](https://rstudio.lawrence.edu/auth-sign-in) (Note: You must be on campus to access the RStudio server.)
 * [Import file onto server](https://youtu.be/aTv2gHYhreM)
