@@ -104,4 +104,4 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Review Materials: [Review packet]({{ BASE_PATH }}/assets/exams/ex2-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-exam2.pdf)
 
 - Class 19: **Connecting CIs and hypothesis tests, The Normal distribution**
-  - Reading: 3.3, 4.5
+  - Reading: 3.3, 4.5, 5.1
