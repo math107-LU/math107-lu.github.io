@@ -103,5 +103,15 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 - Class 19: **Exam 2**
   - Review Materials: [Review packet]({{ BASE_PATH }}/assets/exams/ex2-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-exam2.pdf)
 
-- Class 19: **Connecting CIs and hypothesis tests, The Normal distribution**
+- Class 20: **Connecting CIs and hypothesis tests, The Normal distribution**
   - Reading: 3.3, 4.5, 5.1
+
+#### Week 8 (Mon May 16 - Fri May 20)
+
+- Class 21: **The Normal distribution, The central limit theorem**
+
+- Class 22:  **Inference for one proportion**
+  - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/13-one-proportion-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/13-one-proportion-handout.pdf)
+  - Data: [twitternews.csv]({{ BASE_PATH }}/assets/data/twitternews.csv) 
+
+- Class 23: **Inference for one mean**
