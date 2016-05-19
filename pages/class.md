@@ -109,9 +109,12 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 #### Week 8 (Mon May 16 - Fri May 20)
 
 - Class 21: **The Normal distribution, The central limit theorem**
+  - Reading: 5.2
 
 - Class 22:  **Inference for one proportion**
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/13-one-proportion-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/13-one-proportion-handout.pdf)
+    - Reading: 6.1--6.3
   - Data: [twitternews.csv]({{ BASE_PATH }}/assets/data/twitternews.csv) 
 
 - Class 23: **Inference for one mean**
+  - Reading: 6.4--6.6
