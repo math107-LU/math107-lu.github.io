@@ -113,8 +113,10 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 
 - Class 22:  **Inference for one proportion**
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/13-one-proportion-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/13-one-proportion-handout.pdf)
-    - Reading: 6.1--6.3
+  - Reading: 6.1--6.3
   - Data: [twitternews.csv]({{ BASE_PATH }}/assets/data/twitternews.csv) 
 
 - Class 23: **Inference for one mean**
+  - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/14-one-mean-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/14-one-mean-handout.pdf)
   - Reading: 6.4--6.6
+  - Data: [CommuteAtlanta.csv]({{ BASE_PATH }}/assets/data/CommuteAtlanta.csv), [FloridaLakes.csv]({{ BASE_PATH }}/assets/data/FloridaLakes.csv)
