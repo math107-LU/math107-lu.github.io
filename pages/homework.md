@@ -51,3 +51,6 @@ Homework assignments are due on Tuesdays and Fridays. See the [schedule](schedul
 
 #### HW11
 * [HW11 Assignment]({{ BASE_PATH }}/assets/hw/hw11.pdf)
+
+#### HW12
+* [HW12 Assignment]({{ BASE_PATH }}/assets/hw/hw12.pdf)
