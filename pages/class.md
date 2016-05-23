@@ -120,3 +120,17 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/14-one-mean-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/14-one-mean-handout.pdf)
   - Reading: 6.4--6.6
   - Data: [CommuteAtlanta.csv]({{ BASE_PATH }}/assets/data/CommuteAtlanta.csv), [FloridaLakes.csv]({{ BASE_PATH }}/assets/data/FloridaLakes.csv)
+  
+#### Week 9 (Mon May 23 - Fri May 27)
+
+- Class 24: **Inference for one and two means**
+  - Slides: 
+    - Inference for one mean: See Class 23 for slides
+    - Inference for two means: [Slide format]({{ BASE_PATH }}/assets/slides/15-two-means-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/15-two-means-handout.pdf)
+  - Reading: 6.4--6.6 (one mean), 6.10--6.13 (two means)
+
+- Class 25: **Inference for two means, Intro to regression**
+  - 6.10--6.13 (two means)
+
+- Class 26: **Simple linear regression**
+  - Reading: 2.6, 9.1
