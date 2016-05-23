@@ -54,3 +54,7 @@ Homework assignments are due on Tuesdays and Fridays. See the [schedule](schedul
 
 #### HW12
 * [HW12 Assignment]({{ BASE_PATH }}/assets/hw/hw12.pdf)
+
+#### HW13
+* [HW13 Assignment]({{ BASE_PATH }}/assets/hw/hw13.pdf)
+* [cholesterol.csv]({{ BASE_PATH }}/assets/data/cholesterol.csv)
