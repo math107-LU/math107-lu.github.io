@@ -136,7 +136,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Reading: 2.6
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/16-regression-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/16-regression-handout.pdf)
 
-#### Week 9 (Wed June 1 - Fri June 3)
+#### Week 10 (Wed June 1 - Fri June 3)
 
 - Class 27: **Inference for the slope**
   - Reading: 9.1
