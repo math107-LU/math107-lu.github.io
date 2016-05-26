@@ -129,8 +129,16 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
     - Inference for two means: [Slide format]({{ BASE_PATH }}/assets/slides/15-two-means-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/15-two-means-handout.pdf)
   - Reading: 6.4--6.6 (one mean), 6.10--6.13 (two means)
 
-- Class 25: **Inference for two means, Intro to regression**
-  - 6.10--6.13 (two means)
+- Class 25: **Inference for two means**
+  - Reading: 6.10--6.13 (two means)
 
 - Class 26: **Simple linear regression**
-  - Reading: 2.6, 9.1
+  - Reading: 2.6
+  - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/16-regression-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/16-regression-handout.pdf)
+
+#### Week 9 (Wed June 1 - Fri June 3)
+
+- Class 27: **Inference for the slope**
+  - Reading: 9.1
+
+- Class 28: **Synthesis & Review**
