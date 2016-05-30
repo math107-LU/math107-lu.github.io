@@ -60,6 +60,8 @@ Homework assignments are due on Tuesdays and Fridays. See the [schedule](schedul
 * [cholesterol.csv]({{ BASE_PATH }}/assets/data/cholesterol.csv)
 
 #### HW14
+
 This is an **optional** homework assignment, so if you do not submit the assignment it will not adversely impact your grade. If you choose to submit the assignment, it **will** replace your lowest homework grade, regardless of whether your grade on this assignment is higher. When calculating your final homework grade, I will still drop the lowest two scores.
+
 * [HW14 Assignment]({{ BASE_PATH }}/assets/hw/hw14.pdf)
 * [mlb11.csv]({{ BASE_PATH }}/assets/data/mlb11.csv)
