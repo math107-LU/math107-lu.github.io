@@ -141,7 +141,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 
 - Class 27: **Inference for the slope**
   - Reading: 9.1
-  - [Examples]{{ BASE_PATH }}/assets/slides/17-slr-examples.pdf)
+  - [Examples]({{ BASE_PATH }}/assets/slides/17-slr-examples.pdf)
 
 - Class 28: **Synthesis & Review**
   - Study materials: [Review packet]({{ BASE_PATH }}/assets/exams/final-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-final.pdf), [Additional regression problems]({{ BASE_PATH }}/assets/exams/practice-regr.pdf)
