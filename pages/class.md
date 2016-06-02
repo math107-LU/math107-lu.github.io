@@ -143,4 +143,4 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Reading: 9.1
 
 - Class 28: **Synthesis & Review**
-  - Study materials: [Review packet]({{ BASE_PATH }}/assets/exams/final-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-final.pdf)
+  - Study materials: [Review packet]({{ BASE_PATH }}/assets/exams/final-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-final.pdf), [Additional regression problems]({{ BASE_PATH }}/assets/exams/practice-final-regr.pdf)
