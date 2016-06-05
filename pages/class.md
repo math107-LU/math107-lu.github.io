@@ -56,7 +56,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
 #### Week 4 (Mon Apr 18 - Fri Apr 22)
 
 - Class 10: **Exam 1**
-  - Review materials: [Review packet]({{ BASE_PATH }}/assets/exams/ex1-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-exam1.pdf)
+  - Review materials: [Review packet]({{ BASE_PATH }}/assets/exams/ex1-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-exam1.pdf) ([Solution](https://moodle.lawrence.edu/course/view.php?id=7635))
 
 - Class 11: **Intro to hypothesis testing**
   - Slides: [Slide format]({{ BASE_PATH }}/assets/slides/06-intro-testing-slides.pdf), [Handout format]({{ BASE_PATH }}/assets/slides/06-intro-testing-handout.pdf)
@@ -101,7 +101,7 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - Reading: 3.3
 
 - Class 19: **Exam 2**
-  - Review Materials: [Review packet]({{ BASE_PATH }}/assets/exams/ex2-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-exam2.pdf)
+  - Review Materials: [Review packet]({{ BASE_PATH }}/assets/exams/ex2-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-exam2.pdf) ([Solution](https://moodle.lawrence.edu/course/view.php?id=7635))
 
 - Class 20: **Connecting CIs and hypothesis tests, The Normal distribution**
   - Reading: 3.3, 4.5, 5.1
@@ -144,4 +144,4 @@ I've started a YouTube [channel](https://www.youtube.com/channel/UCCKXyZFxsGG5Tf
   - [Examples]({{ BASE_PATH }}/assets/slides/17-slr-examples.pdf)
 
 - Class 28: **Synthesis & Review**
-  - Study materials: [Review packet]({{ BASE_PATH }}/assets/exams/final-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-final.pdf), [Additional regression problems]({{ BASE_PATH }}/assets/exams/practice-regr.pdf)
+  - Study materials: [Review packet]({{ BASE_PATH }}/assets/exams/final-review-math107-sp16.pdf), [Practice exam]({{ BASE_PATH }}/assets/exams/practice-final.pdf) ([Solution](https://moodle.lawrence.edu/course/view.php?id=7635)), [Additional regression problems]({{ BASE_PATH }}/assets/exams/practice-regr.pdf) ([Solution](https://moodle.lawrence.edu/course/view.php?id=7635))
